@@ -13,6 +13,7 @@
 <div class="container">
   <h2>Alerts</h2>
   <div class="alert alert-info">
+    <h1>Elena</h1>
     <strong>Info!</strong> This alert box could indicate a neutral informative change or action.
   </div>
 </div>
